@@ -1,5 +1,5 @@
-# hyperledgerFabricTutorial
--------------------------------
+# hyperledger Fabric Tutorial
+-----------------------------------------------
 - How to install of Hyperledger-Fabric-Network 
 
 
@@ -14,7 +14,7 @@
 
 
 ### Reference
-[MSP] (https://hyperledger-fabric.readthedocs.io/en/release-1.4/msp.html)
+[MSP] https://hyperledger-fabric.readthedocs.io/en/release-1.4/msp.html
 
 
 
