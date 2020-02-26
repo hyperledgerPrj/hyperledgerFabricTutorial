@@ -12,10 +12,10 @@
 - kafka-zookeeper
 
 ### Daily Wiki
-[Go to Wiki](https://github.com/hyperledgerPrj/hyperledgerFabricTutorial/wiki/How-to-install-Hyperledger-Fabric-Network)
+- [Go to Wiki](https://github.com/hyperledgerPrj/hyperledgerFabricTutorial/wiki/How-to-install-Hyperledger-Fabric-Network)
 
 ### Reference
-[MSP](https://hyperledger-fabric.readthedocs.io/en/release-1.4/msp.html)
+- [MSP](https://hyperledger-fabric.readthedocs.io/en/release-1.4/msp.html)
 
 
 
