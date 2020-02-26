@@ -10,9 +10,6 @@
 - ordererorg0 : admin-orderer0, orderer0
 - fabric-ca
 - kafka-zookeeper
-<br>
-<br>
-<br>
 
 ### Daily Wiki
 [Go to Wiki](https://github.com/hyperledgerPrj/hyperledgerFabricTutorial/wiki/How-to-install-Hyperledger-Fabric-Network)
