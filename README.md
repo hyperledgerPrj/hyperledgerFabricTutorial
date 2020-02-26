@@ -1,9 +1,7 @@
 # hyperledger Fabric Tutorial
 -----------------------------------------------
 - How to install of Hyperledger-Fabric-Network 
-<br>
-
-### MSP : org0, org1, ordererorg0
+- MSP : org0, org1, ordererorg0
 <br>
 
 ### Hyperledger Fabric network Structure
